@@ -21,9 +21,9 @@ include:
   - board: glove80_lh
   - board: glove80_rh
   
-  - board: nice_nano@2.0.0
+  - board: nice_nano//zmk
     shield: corne_left
-  - board: nice_nano@2.0.0
+  - board: nice_nano//zmk
     shield: corne_right
-  - board: nice_nano@2.0.0
+  - board: nice_nano//zmk
     shield: settings_reset
